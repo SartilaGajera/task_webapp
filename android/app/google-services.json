@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043931362004",
+    "project_id": "fir-song-154b9",
+    "storage_bucket": "fir-song-154b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043931362004:android:e08107540ca6f7e1ffc141",
+        "android_client_info": {
+          "package_name": "com.example.practical_sartila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043931362004-5gbap7ptjhg73ft7dnvrl0gtgud5gs56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOQCOHKVpxDsSjvcxQ0HI4ZsdGdCXcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043931362004-5gbap7ptjhg73ft7dnvrl0gtgud5gs56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
